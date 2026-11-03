@@ -1,6 +1,6 @@
 site_name: DataPilot
 site_description: Building an AI agent platform in 18 weeks
-repo_url: https://github.com/YOUR-USERNAME/datapilot
+repo_url: https://github.com/Prasanth4033/datapilot
 theme:
   name: material
 nav:
