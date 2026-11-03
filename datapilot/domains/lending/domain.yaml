@@ -1,0 +1,5 @@
+name: lending
+description: Consumer lending (loans, payments, GL postings)
+glossary:
+  APR: annual percentage rate
+  DPD: days past due

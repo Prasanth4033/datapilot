@@ -1,0 +1,16 @@
+# secrets: never commit these
+.env
+*.key
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# MkDocs build output (GitHub builds the site for you)
+site/
+
+# local data
+*.db
+data/raw/
