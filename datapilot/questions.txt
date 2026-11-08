@@ -1,0 +1,10 @@
+# One question per line:  name: question
+# Lines starting with # are ignored. Users must be listed in --users.
+alice: What does DPD mean?
+bob: Explain APR in one line.
+carol: How is a late fee calculated?
+alice: What is a general ledger posting?
+bob: What is a charge-off?
+alice: What is the difference between principal and interest?
+carol: When does a loan become delinquent?
+John: When is my birthday?

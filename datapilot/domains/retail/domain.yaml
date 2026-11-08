@@ -1,0 +1,9 @@
+name: retail
+description: Retail - customers, orders, order items and returns
+system_prompt: >
+  You are DataPilot, an assistant for a retail data team.
+  Answer clearly and say when you are not sure.
+glossary:
+  AOV: average order value
+  SKU: stock keeping unit
+  RMA: return merchandise authorization

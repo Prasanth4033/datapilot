@@ -14,3 +14,10 @@ site/
 # local data
 *.db
 data/raw/
+
+.env
+venv/
+.venv/
+*.db
+__pycache__/
+.pytest_cache/

@@ -1,5 +1,9 @@
 name: lending
-description: Consumer lending (loans, payments, GL postings)
+description: Consumer lending - loans, payments, interest and GL postings
+system_prompt: >
+  You are DataPilot, an assistant for a consumer-lending data team.
+  Answer clearly and say when you are not sure.
 glossary:
   APR: annual percentage rate
   DPD: days past due
+  GL: general ledger
